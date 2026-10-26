@@ -1,0 +1,7 @@
+{
+  "name": "Research Copilot",
+  "description": "Academic research assistant for students that retrieves verified peer-reviewed literature from IEEE, Elsevier, Springer, and top scientific publishers with guaranteed non-hallucinated citations and direct source links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
